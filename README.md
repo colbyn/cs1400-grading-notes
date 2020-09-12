@@ -2,6 +2,12 @@ Running into some common problems with students, so I’m documenting such thing
 
 # Overview
 
-Files: 
+
 
 * `worksheets/pseudocode-format.md`
+
+
+| File Path | Description |
+|---|---|
+| `worksheets/pseudocode-format.md` | misc notes/documentation about the pseudocode format |
+
