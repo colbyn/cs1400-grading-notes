@@ -1,4 +1,4 @@
-For the worksheet assignments, the expected pseudocode format should be something akin to an ordered list. Analogous to the sequential order in which your actual code will be executed at runtime. 
+For the worksheet assignments, the expected pseudocode format should be something akin to an ordered list, analogous to the sequential order in which your actual code will be executed at runtime. 
 
 E.g.
 ```
