@@ -8,5 +8,5 @@ I’m trying to avoid sharing direct links to files, since if the file path chan
 
 | File Path | Description |
 |---|---|
-| `worksheets/pseudocode-format.md` | misc notes/documentation about the pseudocode format |
+| `worksheets/pseudocode-format.md` | misc notes/documentation about the **pseudocode format** |
 
