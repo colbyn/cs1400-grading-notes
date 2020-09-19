@@ -1,3 +1,14 @@
+# Testing (pertains to Question 5)
+
+## Pseudocode Format Example
+
+> Overall the format should be rather formulaic.
+
+1. Entering [...] and [...] for [...] results in [...] printed to the console and the termination of the program with a non-zero exit code.
+2. Entering [...] for [...] and [...] for [...] results in [...] and [...]
+3. The program should output a non-empty file named [...]
+
+
 # An alternative -more elaborate- explanation
 
 In a manner of speaking, computation is about data and algorithms that operate on such data. Though this will vary depending on the nature of your program. 
@@ -15,9 +26,3 @@ Regarding the tables, there will be three columns:
     * The purpose of this column is to get you accustomed to thinking about what types your variables will manifest at runtime.
 
 3. Some example value.
-
-## Format Example
-
-1. Entering [...] and [...] for [...] results in [...] printed to the console and the termination of the program with a non-zero exit code.
-2. Entering [...] for [...] and [...] for [...] results in [...] and [...]
-3. The program should output a non-empty file named [...]
